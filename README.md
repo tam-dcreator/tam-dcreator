@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tam-dcreator&label=Profile%20views&color=0e75b6&style=flat" alt="tam-dcreator" /> </p>
 
-- 🔭 I’m currently working on **a Shell replica (A simpler version)**
+- 🔭 I’m currently working on **getting a deeper understanding of C and Python**
 
 - 🌱 I’m currently learning **C and Python**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C and Python**
 
-- 📫 How to reach me **thebeginning724@gmail.com**
+- 📫 How to reach me via mail **[Here]**(thebeginning724@gmail.com)
 
 - ⚡ Fun fact **I talk to my monitor when I'm stuck😅**
 
