@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C and Python**
 
-- 📫 How to reach me via mail **[Here]**(thebeginning724@gmail.com)
+- 📫 How to reach me via mail **[Here](thebeginning724@gmail.com)**
 
 - ⚡ Fun fact **I talk to my monitor when I'm stuck😅**
 
