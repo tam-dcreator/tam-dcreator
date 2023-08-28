@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tam-dcreator&label=Profile%20views&color=0e75b6&style=flat" alt="tam-dcreator" /> </p>
 
-- 🔭 I’m currently working on **getting a deeper understanding of C and Python**
+- 🔭 I’m currently working on **bytecode interpreter for the monty language. Check it out in my monty repo**
 
 - 🌱 I’m currently learning **C and Python**
 
